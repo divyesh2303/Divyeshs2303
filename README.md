@@ -3,7 +3,6 @@ About Me
 👀 I’m passionate about web development and constantly exploring new technologies.
 🌱 Currently, I'm a web development trainee, honing my skills and building exciting projects.
 📚 I'm eager to learn more about frontend and backend development.
-💬 Ask me about HTML, CSS, JavaScript, and React.
 🎯 My goal is to become a full-stack developer.
 🌟 I'm interested in collaborating on open source projects and contributing to the community.
 📫 How to reach me: divyeshsolanki2303@gmail.com or https://www.linkedin.com/in/divyesh-solanki-01628a254/.
