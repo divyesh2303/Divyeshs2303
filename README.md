@@ -8,7 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/divyesh-solanki-01628a254/](https://www.linkedin.com/in/divyesh-solanki-01628a254/)
 
 - 📫 How to reach me **divyeshsolanki2302@gmail.com**
-[Divyesh+solanki.pdf](https://github.com/user-attachments/files/16521371/Divyesh%2Bsolanki.pdf)
+  
+<h1> Download CV:- [Divyesh+solanki.pdf](https://github.com/user-attachments/files/16521371/Divyesh%2Bsolanki.pdf)</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
