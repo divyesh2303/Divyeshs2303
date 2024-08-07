@@ -10,6 +10,8 @@ My Skills
 Languages: HTML, CSS, JavaScript
 Frameworks/Libraries: React, Node.js
 Tools: Git, GitHub, VSCode
+[Divyesh+solanki.pdf](https://github.com/user-attachments/files/16521033/Divyesh%2Bsolanki.pdf)
+
 <!---
 Divyeshs2303/Divyeshs2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
