@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
-![Uploading 219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif…]()
+![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521](https://github.com/user-attachments/assets/0e94998f-1d63-437f-b7da-22639b1d33ab)
 
 - 🔭 I’m currently working on **MeghRaj TechnoSoft**
 
