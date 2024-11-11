@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThmeHBrZGlodWo5aDE4a3NwNmwwZnlpcXV0ZWpndHNzcHlic3V1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="450px" align="right" alt="">
-- 🔭 I’m currently working on **MeghRaj TechnoSoft**
+- 🔭 I’m currently working on *Brilworks*
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Bootstrap, React-js**
 
