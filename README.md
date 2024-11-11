@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **divyeshsolanki2302@gmail.com**
 - Download CV:- [Divyesh+solanki.pdf](https://github.com/user-attachments/files/16521371/Divyesh%2Bsolanki.pdf)
+- Portfolio :- <a href="divyeshs.netlify.app"></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
