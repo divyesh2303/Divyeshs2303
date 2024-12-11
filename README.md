@@ -59,4 +59,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyeshs2303&show_icons=true&locale=en&layout=compact" alt="divyeshs2303" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyeshs2303&" alt="divyeshs2303" /></p>
