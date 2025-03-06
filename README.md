@@ -57,5 +57,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyeshs2303&show_icons=true&locale=en&layout=compact" alt="divyeshs2303" /></p>
 
