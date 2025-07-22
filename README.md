@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **divyeshsolanki2302@gmail.com**
 
-- Download CV:[Divyesh solanki.pdf](https://github.com/user-attachments/files/17732665/Divyesh.solanki.pdf)
+- Download CV:[Solankidivyesh.pdf](https://github.com/user-attachments/files/21366650/Solankidivyesh.pdf)
 
-- Portfolio: [My Portfolio](https://divyeshs.netlify.app/)
+- Portfolio: [My Portfolio](https://divyesh230.netlify.app/)
 - 
 
 
